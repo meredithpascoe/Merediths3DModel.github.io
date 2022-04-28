@@ -17,3 +17,7 @@ the object surface based on the dense or sparse point cloud.
 Finally, the surface can be textured, and the model is done and ready to be exported. 
 
 ![3DModel1](img/3DModel1.JPG)
+
+![3DModel2](img/3DModel2.JPG)
+
+![3DModel3](img/3DModel3.JPG)
