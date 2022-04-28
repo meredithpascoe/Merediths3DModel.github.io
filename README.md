@@ -9,3 +9,9 @@ The photos were then uploaded to Agisoft Metashape Professional and "aligned" us
 The next stage is generating the dense point cloud that is built by Metashape based on the estimated camera
 positions and pictures themselves. The dense point cloud may be edited and classified prior to export or
 proceeding to the next stage.
+
+
+The third stage is generation of a surface; in this case, mesh. 3D polygonal mesh model represents
+the object surface based on the dense or sparse point cloud. 
+
+Finally, the surface can be textured. 
