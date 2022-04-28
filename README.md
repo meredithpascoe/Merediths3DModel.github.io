@@ -14,4 +14,6 @@ proceeding to the next stage.
 The third stage is generation of a surface; in this case, mesh. 3D polygonal mesh model represents
 the object surface based on the dense or sparse point cloud. 
 
-Finally, the surface can be textured. 
+Finally, the surface can be textured, and the model is done and ready to be exported. 
+
+![3DModel1](img/3DModel1.JPG)
