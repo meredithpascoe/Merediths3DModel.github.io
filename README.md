@@ -21,3 +21,7 @@ Finally, the surface can be textured, and the model is done and ready to be expo
 ![3DModel2](img/3DModel2.JPG)
 
 ![3DModel3](img/3DModel3.JPG)
+
+Once the 3D model is exported, it can then be uploaded to the Unity application and prepared for virtual reality use. 
+
+To do this, one must simply add the DAE and texture file from the 3D model to unity and activate the VR settings. 
